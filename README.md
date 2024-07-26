@@ -10,7 +10,7 @@
 
 <br/>
 
-<h3 align='center'>🏫 Experience & Social Activity</h3>
+<h3 align='center'>🏫 Experience & Social Activity 🏫</h3>
 
 <div align='center'>
 
@@ -29,7 +29,7 @@
 
 <br/>
 
-<h3 align='center'>💻 Projects</h3>
+<h3 align='center'>💻 Projects 💻</h3>
 
 <div align='center'>
 
@@ -67,7 +67,7 @@
 <br/>
 
 </div>
-<h3 align='center'>🦆 About Me & Contact</h3>
+<h3 align='center'>🦆 About Me & Contact 🦆</h3>
 <div align='center'>
   <a href="https://github.com/vargun"><img alt="RED" src ="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="https://medium.com/@heegun46900"><img alt="RED" src ="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>
