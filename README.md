@@ -37,7 +37,7 @@
 | --- | --- |
 | 2022.09 ~ 2022.12　|반려동물과의 추억을 기록할 수 있는 반려동물 전용 SNS '<a href="https://github.com/VarGun/KMU-Mobile-Programming">반려일지</a>' Frontend 개발|
 | 2023.01 ~ 2023.04　|감정 분석을 통해 맞춤형 Todo, 영화, 음악을 추천해주는 다이어리 및 일정 관리 앱 '<a href="https://github.com/VarGun/EmotionalDiary-frontend">Emotional Diary</a>' Frontend 개발|
-| 2023.09 ~ 2023.12　|딥러닝 기반 연령추정을 통해 연령별 최적화 UI를 제공하는 디지털 문맹 해소 키오스크 '<a href="https://github.com/VarGun/EmotionalDiary-frontend">연령별 최적화 UI 제공 키오스크</a>' Frontend 개발|
+| 2023.09 ~ 2023.12　|딥러닝 기반 연령추정을 통해 연령별 최적화 UI를 제공하는 디지털 문맹 해소 키오스크 '<a href="https://github.com/2023-1-Alpha/alpha-frontend">연령별 최적화 UI 제공 키오스크</a>' Frontend 개발|
 | 2023.10 ~ 2024.02 |국민대학교 소프트웨어융합대학 학생들을 위한 복지 물품 대여 시스템 '<a href="https://github.com/2023-2-WINK-Project-Team1/front-end-mobile">빌릴게</a>' Frontend 개발 팀장|
 | 2024.04 |빌릴게 유지보수 및 추가 기능 개발 '<a href="https://github.com/2023-2-WINK-Project-Team1/front-end-web">빌릴게</a>'Frontend 개발 팀장|
 | 2024.01 ~ 2024.06 |AI 기반 장년층 라이프 케어 서비스 '<a href="https://github.com/kookmin-sw/capstone-2024-25">올봄</a>'Frontend 개발|
