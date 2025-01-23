@@ -42,6 +42,7 @@
 | 2023.10 ~ 2024.02 |국민대학교 소프트웨어융합대학 학생들을 위한 복지 물품 대여 시스템 '<a href="https://github.com/2023-2-WINK-Project-Team1/front-end-mobile">빌릴게</a>' Frontend 개발 팀장|
 | 2024.04 |빌릴게 유지보수 및 추가 기능 개발 '<a href="https://github.com/2023-2-WINK-Project-Team1/front-end-web">빌릴게</a>'Frontend 개발 팀장|
 | 2024.01 ~ 2024.06 |AI 기반 장년층 라이프 케어 서비스 '<a href="https://github.com/kookmin-sw/capstone-2024-25">올봄</a>'Frontend 개발|
+| 2024.06 ~ 2024.11 |채용, 숙소, 관광 정보 등을 추천 및 제공하는 국내 워케이션 플랫폼 '<a href="https://github.com/KMU-WINK/workinkorea">WORK IN KOREA</a>'Frontend 개발|
 
 </div>
 
