@@ -85,3 +85,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=vargun)](https://solved.ac/vargun/)
 
 </div>
+
+<div align='center'>
+
+![VarGun's GitHub stats](https://github-readme-stats.vercel.app/api?username=vargun&show_icons=true&theme=dark)
+
+</div>
+
